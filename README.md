@@ -1,7 +1,7 @@
 AAJIL QA Assessment – Automation Project
 
-This repository contains the automation solution for the AAJIL QA Assessment.
-The project automates the flight purchase flow on the BlazeDemo sample application.
+* This repository contains the automation solution for the AAJIL QA Assessment.
+* The project automates the flight purchase flow on the BlazeDemo sample application.
 
 1. Project Overview
 This automation suite validates the end-to-end purchase flow:
@@ -82,6 +82,7 @@ Each test asserts that the confirmation page returns a non-empty status.
   * Test data is parameterized inside the test class and can be externally expanded later.
 
 9. Author
-   Aiyman Mohammed
-   QA Test/Performance Engineer
+
+Aiyman Mohammed
+QA Test/Performance Engineer
             
