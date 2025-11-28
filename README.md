@@ -4,7 +4,9 @@ AAJIL QA Assessment – Automation Project
 * The project automates the flight purchase flow on the BlazeDemo sample application.
 
 1. Project Overview
+
 This automation suite validates the end-to-end purchase flow:
+
 1. Select origin city
 2. Select destination city
 3. Search for flights
@@ -84,5 +86,6 @@ Each test asserts that the confirmation page returns a non-empty status.
 9. Author
 
 Aiyman Mohammed
+
 QA Test/Performance Engineer
             
